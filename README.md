@@ -211,7 +211,6 @@ Proses[] menu = new Proses[2];
 
 ```bash
 try {
-    // code that might throw an exception
 } catch (Exception e) {
     System.out.println("Error: " + e.getMessage());
 }
